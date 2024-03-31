@@ -35,6 +35,14 @@ To accomplish the task, we use Inception-v3 model. Specifically, the target imag
 
 ![faulty_classification.png](images/faulty_classification.png)
 
+## Source Code and Data
+
+- [CODE](https://github.com/anik801/AdversarialAttackTrafficSystem/blob/main/main.ipynb) is the source code for the task.
+- [CUSTOM DATASET](https://github.com/anik801/AdversarialAttackTrafficSystem/blob/main/data_files) contains the custom curated dateset used in this project.
+- [PRE-TRAINED MODEL](https://github.com/anik801/AdversarialAttackTrafficSystem/blob/main/inception_v3_2016_08_28.tar.gz) contains the pre-trained Inception-v3 model.
+- [TRANSFER LEARNED MODEL](https://github.com/anik801/AdversarialAttackTrafficSystem/tree/main/retrained_model) contains the transfer learned model.
+- [REPORT](https://github.com/anik801/AdversarialAttackTrafficSystem/blob/main/Adversarial_Attack_on_Traffic_Lights_to_Deceive_Autonomous_Vehicles_Final_Report.pdf) contains detailed project report.
+
 ## Project Team and Contributors
 
 - [Sheik Murad Hassan Anik](https://www.linkedin.com/in/anik801/)
