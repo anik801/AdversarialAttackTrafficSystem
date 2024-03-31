@@ -15,6 +15,26 @@ To accomplish the task, we use Inception-v3 model. Specifically, the target imag
 - ImageNet
 - Custom dataset
 
+## System Architecture
+
+![system_architecture.png](images/architecture.png)
+
+## Loss function convergence with training iterations
+
+![iteration_vs_loss.png](images/iteration_vs_loss.png)
+
+## Classification results of trained model after transfer learning
+
+![correct_classification.png](images/correct_classification.png)
+
+## Perturbation, mask generation and adversarial image
+
+![perturbation.png](images/perturbation.png)
+
+## Classification results of previously trained model on adversarial image
+
+![faulty_classification.png](images/faulty_classification.png)
+
 ## Project Team and Contributors
 
 - [Sheik Murad Hassan Anik](https://www.linkedin.com/in/anik801/)
