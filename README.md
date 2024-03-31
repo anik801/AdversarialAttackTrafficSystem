@@ -17,11 +17,11 @@ To accomplish the task, we use Inception-v3 model. Specifically, the target imag
 
 ## System Architecture
 
-![system_architecture.png](images/architecture.png)
+![system_architecture.png](images/architecture.PNG)
 
 ## Loss function convergence with training iterations
 
-![iteration_vs_loss.png](images/iteration_vs_loss.png)
+![iteration_vs_loss.png](images/iteration_vs_loss.PNG)
 
 ## Classification results of trained model after transfer learning
 
@@ -29,7 +29,7 @@ To accomplish the task, we use Inception-v3 model. Specifically, the target imag
 
 ## Perturbation, mask generation and adversarial image
 
-![perturbation.png](images/perturbation.png)
+![perturbation.png](images/perturbation.PNG)
 
 ## Classification results of previously trained model on adversarial image
 
